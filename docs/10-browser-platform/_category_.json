@@ -1,0 +1,8 @@
+{
+  "label": "Browser Platform",
+  "position": 10,
+  "link": {
+    "type": "generated-index",
+    "description": "Web APIs, storage, rendering pipeline, script loading, HTML semantics and CSS fundamentals."
+  }
+}

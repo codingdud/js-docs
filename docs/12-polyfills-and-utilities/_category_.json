@@ -1,0 +1,8 @@
+{
+  "label": "Polyfills & Utilities",
+  "position": 12,
+  "link": {
+    "type": "generated-index",
+    "description": "Implementing built-ins and common utilities from scratch: array methods, call/apply/bind, promise combinators, debounce, throttle, memoization."
+  }
+}

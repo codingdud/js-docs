@@ -1,0 +1,8 @@
+{
+  "label": "Arrays, Strings & Collections",
+  "position": 7,
+  "link": {
+    "type": "generated-index",
+    "description": "Array methods, strings, Map/WeakMap, Set, iterators and generators."
+  }
+}

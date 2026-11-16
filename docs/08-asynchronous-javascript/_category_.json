@@ -1,0 +1,8 @@
+{
+  "label": "Asynchronous JavaScript",
+  "position": 8,
+  "link": {
+    "type": "generated-index",
+    "description": "Callbacks, promises, async/await, the event loop and error handling for async code."
+  }
+}

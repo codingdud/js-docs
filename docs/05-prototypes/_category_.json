@@ -1,0 +1,8 @@
+{
+  "label": "Prototypes & Inheritance",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "prototype vs __proto__, the prototype chain, the new keyword and wiring inheritance by hand."
+  }
+}

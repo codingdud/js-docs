@@ -1,0 +1,8 @@
+{
+  "label": "Functions, Scope & Closures",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "Execution context, hoisting, scope chain, closures, function forms, this binding and functional patterns."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Web Workers & Service Workers",
+  "position": 11,
+  "link": {
+    "type": "generated-index",
+    "description": "Background threads, shared workers and service worker lifecycle and caching strategies."
+  }
+}

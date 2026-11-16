@@ -1,0 +1,8 @@
+{
+  "label": "DSA & Problem Solving",
+  "position": 14,
+  "link": {
+    "type": "generated-index",
+    "description": "String and math problems, searching, recursion, LeetCode pattern recognition and Node input handling."
+  }
+}

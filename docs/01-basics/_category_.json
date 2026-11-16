@@ -1,0 +1,8 @@
+{
+  "label": "JavaScript Basics",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "Variables, data types, operators, control flow, loops and the core ES6 syntax that everything else builds on."
+  }
+}

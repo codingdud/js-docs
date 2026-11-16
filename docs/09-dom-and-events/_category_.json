@@ -1,0 +1,8 @@
+{
+  "label": "DOM & Events",
+  "position": 9,
+  "link": {
+    "type": "generated-index",
+    "description": "Selecting, creating and updating DOM nodes, event handling, propagation, delegation, forms and scroll."
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Objects",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Creating objects, Object static methods, property descriptors, iteration, JSON and copying."
+  }
+}
